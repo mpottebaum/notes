@@ -12,6 +12,8 @@ title: Geology of Io
   - Io orbits within Jupiter's magnetosphere and the molten magma ocean beneath its surface is highly conductive
     - Jupiter's magnetosphere induces a current in Io's magma ocean which creates a magnetic field
   - the poles switch twice in a Jovian day (~10 Earth hours)
+- Jupiter's magnetic field generates an electric current known as the Io flux tube that couples Io's atmosphere and neutral cloud to jupiter's polar upper atmosphere
+  - this creates an auroral glow in Jupiter's polar regions and aurorae in Io's atmosphere
 
 ## Core
 - either fully iron or iron-sulfide
